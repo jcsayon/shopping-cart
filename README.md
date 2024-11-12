@@ -37,7 +37,7 @@ Ensure you have Node.js and npm installed on your machine. You can download them
     To start the project in development mode, run:
     ```bash
         npm run dev
-
+    ```
     This will start the Vite development server. Open your browser and go to http://localhost:5173 to view the application.
 
 
