@@ -25,16 +25,19 @@ Ensure you have Node.js and npm installed on your machine. You can download them
    git clone https://github.com/<your_github_username>/shopping-cart.git
 
 2. **Navigate to the project directory**:
-
+    ```bash
     cd shopping-cart
 
 
 3. **Install dependencies**:
+    ```bash
     npm install
 
 4. **Running the Project**:
     To start the project in development mode, run:
+        ```bash
         npm run dev
+
     This will start the Vite development server. Open your browser and go to http://localhost:5173 to view the application.
 
 
@@ -66,10 +69,10 @@ shopping-cart/
 │       └── HomePage.jsx      # Home page displaying products and cart
 └── public/
     └── assets/               # Any static assets like images or icons
-plaintext```
 
 
-API
+
+###API
 This project uses the Platzi Fake Store API to fetch product data.
 
 
