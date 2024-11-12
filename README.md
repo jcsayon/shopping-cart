@@ -45,7 +45,9 @@ Libraries and Tools Used
     React Router DOM - Declarative routing for React applications
 
 
+
 *Project Structure*
+```plaintext
 shopping-cart/
 ├── index.html                # Entry HTML file
 ├── package.json              # Project configuration and dependencies
