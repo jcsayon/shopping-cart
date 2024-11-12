@@ -66,7 +66,7 @@ shopping-cart/
 │       └── HomePage.jsx      # Home page displaying products and cart
 └── public/
     └── assets/               # Any static assets like images or icons
-
+```plaintext
 
 
 API
