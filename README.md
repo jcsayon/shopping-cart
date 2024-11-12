@@ -50,7 +50,7 @@ Libraries and Tools Used
 
 
 *Project Structure*
-```plaintext
+```bash
 shopping-cart/
 ├── index.html                # Entry HTML file
 ├── package.json              # Project configuration and dependencies
@@ -69,10 +69,10 @@ shopping-cart/
 │       └── HomePage.jsx      # Home page displaying products and cart
 └── public/
     └── assets/               # Any static assets like images or icons
+```
 
 
-
-###API
+## Api
 This project uses the Platzi Fake Store API to fetch product data.
 
 
